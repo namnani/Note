@@ -2,3 +2,4 @@
 - jackson, gson 라이브러리
 - java throwable
 - StringUtils등 apache에서 제공하는 각종 유틸라이브러리.
+- java mockito 프레임워크 사용법 + 테스트시에 reflection으로 필드 세팅?
