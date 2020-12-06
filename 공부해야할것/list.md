@@ -5,3 +5,4 @@
 - [ ] java mockito 프레임워크 사용법 + 테스트시에 reflection으로 필드 세팅?
 - [ ] java annotation 문법
 - [ ] gradle 사용방법.
+- [ ] 리트코드 longest-palindromic-substring dp식 풀이랑 정석풀이 학습, 나의 brute-force풀이는 왜 안되는건지? 등등 다른문제 풀이 다시 
